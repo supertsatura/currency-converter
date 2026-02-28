@@ -43,6 +43,7 @@
 
 import { useEffect, useState } from "react";
 import CurrencyConverter from "./CurrencyConverter";
+import "./App.css";
 
 // тип валюты и ее курса
 export interface Rate {
